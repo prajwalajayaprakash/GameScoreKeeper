@@ -1,0 +1,22 @@
+.winner{
+	color:green;
+}
+.content1{
+	text-align:center;
+	font-size: 1.5em;
+}
+.content2{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 1.5em;
+}
+#title{
+	font-family: Lobster;
+	font-size: 3em;
+}
+body{
+	background: url(https://source.unsplash.com/5X39cfzKX3o);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
